@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcionCtx1"
+        android:title="@string/copiar" />
+    <item
+        android:id="@+id/opcionCtx2"
+        android:title="@string/cortar" />
+    <item
+        android:id="@+id/opcionCtx3"
+        android:title="@string/pegar" />
+</menu>
